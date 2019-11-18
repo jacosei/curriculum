@@ -1031,4 +1031,6 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Vicmi-Dev's Solution](https://github.com/vicmi-dev/rock-paper-scissors) 
 - [AlexGioffDev's Solution](https://github.com/AlexGioffDev/RockPaperScrissors)
 - [HelixF's Solution](https://github.com/HelixF/Rock-Paper-Scissors) 
+- [Jacosei's Solution](https://github.com/jacosei/rock_paper_scissors)
+
 </details>
